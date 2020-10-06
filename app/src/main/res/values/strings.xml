@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="edittext_uri">edittext_uri</string>
+    <string name="text_to_share">text_to_share</string>
+</resources>
